@@ -19,9 +19,6 @@ install.packages(c("shiny", "GEOquery", "DT", "limma", "ggplot2", "plotly", "phe
 
 ## Usage
 1. Run app locally:
-```r
-shiny::runGitHub("yourusername/your-repo-name")
-```
 2. Choose data source (GEO ID or file upload)
 3. Select samples using table checkboxes
 4. Adjust analysis thresholds using sliders
