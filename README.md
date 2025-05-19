@@ -9,7 +9,7 @@ A Shiny web application for interactive analysis of GEO datasets and user-upload
 ## 🎥 Tutorial Video
 
 Watch the five-minute walkthrough:  
-[![Play tutorial_3.mp4](https://img.shields.io/badge/Tutorial-▶️%20Play-green.svg)](tutorial_3.mp4)  
+[![Play tutorial_4.mp4](https://img.shields.io/badge/Tutorial-▶️%20Play-green.svg)](tutorial_3.mp4)  
 *(Click above or navigate to `tutorial_3.mp4` in this repo.)*
 
 ---
